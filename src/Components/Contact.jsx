@@ -81,7 +81,7 @@ const Contact = () => {
             rows="5"
             name="message"
             placeholder="Your message"
-            required
+            required 
           ></textarea>
         </div>
 
