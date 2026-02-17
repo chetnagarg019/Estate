@@ -47,8 +47,8 @@ const Contact = () => {
       </p>
 
       {/* form here  */}
-      <form onSubmit={onSubmit} className="max-w-2xl mx-auto text-gray-600 pt-8">
-        <div className="flex flex-wrap">
+      <form onSubmit={onSubmit} className="max-w-2xl mx-auto text-gray-600 pt-8 ">
+        <div className="flex flex-wrap ">
           <div className="w-full md:w-1/2 text-left ">
             Your name
             <input
@@ -77,7 +77,7 @@ const Contact = () => {
         <div className="w-full text-left my-6">
           Your message
           <textarea
-            className="w-full border border-gray-300 rounded py-3 px-4 mt-2 resize-none"
+            className="w-full  border border-gray-300 rounded py-3 px-4 mt-2 resize-none"
             rows="5"
             name="message"
             placeholder="Your message"

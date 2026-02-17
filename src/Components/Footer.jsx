@@ -16,6 +16,7 @@ const Footer = () => {
           </p>
         </div>
 
+
         {/* Links */}
         <ul>
           <li className='text-white font-bold mb-4'>Company</li>
@@ -24,6 +25,7 @@ const Footer = () => {
           <li className='text-gray-400 mb-2 hover:text-white cursor-pointer'>Contact us</li>
           <li className='text-gray-400 mb-2 hover:text-white cursor-pointer'>Privacy Policy</li>
         </ul>
+
 
         {/* Newsletter */}
         <div>
@@ -42,6 +44,7 @@ const Footer = () => {
             </button>
           </div>
         </div>
+        
 
       </div>
 

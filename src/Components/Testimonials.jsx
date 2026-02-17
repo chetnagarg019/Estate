@@ -27,7 +27,7 @@ const Testimonials = () => {
       title: "Co-Founder",
       image: profile_img_3,
       alt: "Portrait of James Washington",
-      rating: 5,
+      rating:   5,
       text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     }
   ];
